@@ -1,0 +1,27 @@
+{
+  "name": "presentation-desktop-app",
+  "version": "1.0.0",
+  "description": "A standalone native desktop presentation app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "next dev"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "electron": "^28.0.0",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@google/genai": "^2.13.0",
+    "autoprefixer": "^10.5.4",
+    "lucide-react": "^1.27.0",
+    "next": "^16.2.12",
+    "postcss": "^8.5.23",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "tailwindcss": "^4.3.3"
+  }
+}
