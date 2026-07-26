@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VaultFlow</string>
+    <string name="title_activity_main">VaultFlow</string>
+    <string name="package_name">com.vaultflow.app</string>
+    <string name="custom_url_scheme">com.vaultflow.app</string>
+</resources>
